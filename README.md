@@ -33,17 +33,6 @@ DTC.BusPass/
 - **CSS** (10.8%) - Styling and responsive design
 - **JavaScript** - Interactivity (jQuery, DataTables)
 
-## ✨ Features
-
-✅ Responsive bus pass display card  
-✅ Blinking bus pass number effect  
-✅ QR code display for pass verification  
-✅ DTC branding and styling  
-✅ Validity period display  
-✅ Photo integration  
-✅ Browser history protection  
-✅ Mobile-friendly layout  
-
 ## 📖 How It Works
 
 The repository contains a static HTML page that:
@@ -71,22 +60,9 @@ This is a **mock/demonstration** version of the actual DTC Bus Pass portal. It i
 
 **This is NOT an official DTC system and should not be used to issue or validate actual bus passes.**
 
-## 📝 Notes
-
-- The pass information shown (name, pass number, dates) is sample data only
-- All styling and layout is CSS-based for easy customization
-- JavaScript is used for basic interactivity and effects
-- Assets are self-contained within the project folder
-
 ## 🤝 Contributing
 
 Feel free to fork this project and submit improvements or enhancements.
-
-## 📧 Contact
-
-For questions or suggestions, please open an issue in the repository.
-
----
 
 **Created by:** Manish Attry  
 **Last Updated:** 2023  
