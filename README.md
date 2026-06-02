@@ -1,6 +1,6 @@
-# DTC Bus Pass - Mock/Clone
+# DTC Bus Pass - Clone
 
-A static HTML/CSS clone of the **Delhi Transport Corporation (DTC) e-Bus Pass** portal. This is a demonstration/mock version of the DTC bus pass system, created for educational and UI reference purposes.
+A static HTML/CSS clone of the **Delhi Transport Corporation (DTC) e-Bus Pass** portal. This is mock version of the DTC bus pass system, created for educational and UI reference purposes.
 
 ## 📋 Overview
 
@@ -26,12 +26,6 @@ DTC.BusPass/
     ├── jquery.dataTables.min.js
     └── Other resources
 ```
-
-## 🛠️ Technologies Used
-
-- **HTML** (89.2%) - Structure and layout
-- **CSS** (10.8%) - Styling and responsive design
-- **JavaScript** - Interactivity (jQuery, DataTables)
 
 ## 📖 How It Works
 
